@@ -1,0 +1,10 @@
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.exe
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.deps.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.dev.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfo.cs
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.pdb

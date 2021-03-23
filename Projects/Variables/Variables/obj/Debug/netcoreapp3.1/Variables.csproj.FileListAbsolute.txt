@@ -1,0 +1,10 @@
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.pdb

@@ -1,0 +1,10 @@
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
