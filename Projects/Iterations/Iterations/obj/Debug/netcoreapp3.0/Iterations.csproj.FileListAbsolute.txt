@@ -1,0 +1,11 @@
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\Iterations\Iterations\bin\Debug\netcoreapp3.0\Iterations.exe
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\Iterations\Iterations\bin\Debug\netcoreapp3.0\Iterations.deps.json
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\Iterations\Iterations\bin\Debug\netcoreapp3.0\Iterations.runtimeconfig.json
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\Iterations\Iterations\bin\Debug\netcoreapp3.0\Iterations.runtimeconfig.dev.json
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\Iterations\Iterations\bin\Debug\netcoreapp3.0\Iterations.dll
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\Iterations\Iterations\bin\Debug\netcoreapp3.0\Iterations.pdb
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\Iterations\Iterations\obj\Debug\netcoreapp3.0\Iterations.csprojAssemblyReference.cache
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\Iterations\Iterations\obj\Debug\netcoreapp3.0\Iterations.AssemblyInfoInputs.cache
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\Iterations\Iterations\obj\Debug\netcoreapp3.0\Iterations.AssemblyInfo.cs
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\Iterations\Iterations\obj\Debug\netcoreapp3.0\Iterations.dll
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\Iterations\Iterations\obj\Debug\netcoreapp3.0\Iterations.pdb
