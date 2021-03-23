@@ -23,7 +23,11 @@ namespace CSharpFundamentals
 
             var methodName = "Express";
             var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
-                
+
+            var random = new Random();
+            for (var i = 0; i < 10; i++)
+                Console.WriteLine(random.Next());
+            
         }
     }
 }
