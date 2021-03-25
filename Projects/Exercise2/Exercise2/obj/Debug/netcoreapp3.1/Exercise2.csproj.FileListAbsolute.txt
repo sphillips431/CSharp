@@ -1,0 +1,11 @@
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.exe
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.deps.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.dev.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.dll
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.pdb
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.csprojAssemblyReference.cache
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfoInputs.cache
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfo.cs
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.dll
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.pdb
