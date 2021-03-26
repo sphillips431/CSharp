@@ -13,21 +13,18 @@ namespace CSharpFundamentals
     {
         static void Main(string[] args)
         {
-            var method = ShippingMethod.Express;
-            Console.WriteLine((int)method);
+            int[] numbers = new int[] { 3, 7, 9, 2, 14, 6 };
 
-            var methodID = 3;
-            Console.WriteLine((ShippingMethod)methodID);
+            Console.WriteLine("lenth: " + numbers.Length);
 
-            Console.WriteLine(method.ToString());
+            int index = Array.IndexOf(numbers, 9);
 
-            var methodName = "Express";
-            var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
+            Console.WriteLine("index of 9: " + index);
 
-            var random = new Random();
-            for (var i = 0; i < 10; i++)
-                Console.WriteLine(random.Next());
-            
+            Array.Clear(numbers, 0, 2);
+
+            foreach (var n in numbers)
+                Console.WriteLine(n);
         }
     }
 }
