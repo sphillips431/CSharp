@@ -1,0 +1,10 @@
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\listandarraysexercise\listandarraysexercise\bin\Debug\netcoreapp3.1\listandarraysexercise.exe
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\listandarraysexercise\listandarraysexercise\bin\Debug\netcoreapp3.1\listandarraysexercise.deps.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\listandarraysexercise\listandarraysexercise\bin\Debug\netcoreapp3.1\listandarraysexercise.runtimeconfig.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\listandarraysexercise\listandarraysexercise\bin\Debug\netcoreapp3.1\listandarraysexercise.runtimeconfig.dev.json
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\listandarraysexercise\listandarraysexercise\bin\Debug\netcoreapp3.1\listandarraysexercise.dll
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\listandarraysexercise\listandarraysexercise\bin\Debug\netcoreapp3.1\listandarraysexercise.pdb
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\listandarraysexercise\listandarraysexercise\obj\Debug\netcoreapp3.1\listandarraysexercise.AssemblyInfoInputs.cache
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\listandarraysexercise\listandarraysexercise\obj\Debug\netcoreapp3.1\listandarraysexercise.AssemblyInfo.cs
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\listandarraysexercise\listandarraysexercise\obj\Debug\netcoreapp3.1\listandarraysexercise.dll
+C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\listandarraysexercise\listandarraysexercise\obj\Debug\netcoreapp3.1\listandarraysexercise.pdb

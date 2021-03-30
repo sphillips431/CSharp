@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using CSharpFundamentals.Math;
 
 namespace CSharpFundamentals
@@ -13,18 +14,35 @@ namespace CSharpFundamentals
     {
         static void Main(string[] args)
         {
-            int[] numbers = new int[] { 3, 7, 9, 2, 14, 6 };
 
-            Console.WriteLine("lenth: " + numbers.Length);
+            var numbers = new List<int>() { 1, 2, 3, 4 };
+            numbers.Add(1);
+            numbers.AddRange(new int[3] { 5, 6, 7 });
 
-            int index = Array.IndexOf(numbers, 9);
+            foreach (var number in numbers)
+                Console.WriteLine(number);
 
-            Console.WriteLine("index of 9: " + index);
+            Console.WriteLine();
+            Console.WriteLine(numbers.IndexOf(1));
 
-            Array.Clear(numbers, 0, 2);
+            Console.WriteLine();
+            Console.WriteLine(numbers.LastIndexOf(1));
 
-            foreach (var n in numbers)
-                Console.WriteLine(n);
+            Console.WriteLine("count " + numbers.Count);
+
+            for (var i = 0; i < numbers.Count; i++)
+            {
+                if (numbers[i] == 1)
+                    numbers.Remove(numbers[i]);
+            }
+
+            foreach (var number in numbers)
+                Console.WriteLine(number);
+
+            numbers.Clear();
+            Console.WriteLine("count " + numbers.Count);
+
+
         }
     }
 }
