@@ -9,3 +9,16 @@ C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\CSharpFundamentals\CSharpF
 C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.dll
 C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.pdb
 C:\Users\phill\OneDrive\Desktop\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csprojAssemblyReference.cache
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csprojAssemblyReference.cache
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.dll
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.exe
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.deps.json
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.json
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.dev.json
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.dll
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+C:\Users\Sean and Kayla\Desktop\Sean_Work\Udemy\CSharp\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.genruntimeconfig.cache
